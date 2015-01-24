@@ -1,3 +1,4 @@
 *.class
 out/production/
-.idea
+workspace.xml
+tasks.xml
